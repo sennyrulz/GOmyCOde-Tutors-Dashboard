@@ -1,0 +1,159 @@
+body{
+    background-color: #242524 !important;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+
+.navbar-brand{
+    margin-left: 100px;
+}
+.col-lg-12 Nav{
+    background-color: #242524 !important;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+    height: 90px;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.nav-link{
+    color: #fff !important;
+    margin-left: 30px;
+    justify-content: space-evenly;
+    width: 80%;
+}
+
+#flexSwitchCheckChecked{
+    height: 30px;
+    width: 65px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.form-check-label p{
+    margin-right: -15px;
+    margin-top: 25px;
+}
+
+.Profile-dropdown-arrow{
+    color: #fff;
+    margin-right: 120px;
+    margin-top: -12px;
+}
+
+.dropdown-menu{
+    margin-right: 190px;
+}
+
+
+
+
+.Nav2 col-lg-12{
+    background-color: #242524 !important;
+    color: #fff;
+    height: 150px;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+
+.navbar-brand h6{
+    font-size: 16px;
+    color: #fff;
+    margin-left: 8px;
+}
+
+
+
+.d-flex{
+    margin: 130px;
+    width: 400px;
+    border-radius: 50%;
+}
+
+.rounded-start-DisplayPic{
+    margin: 40px 0 0 70px;
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 50%;
+}
+
+.card{
+    margin: 40px 0 0 0;
+    background-color: #fff !important;
+    height: 750px !important;
+    border-radius: 10px;
+}
+
+ .card h5{
+    margin: 25px 0 0 -10px;
+ } 
+
+ .card p{
+    margin: 0px 0 0 -10px;
+ } 
+
+ .card-text-icon1{
+    background-color: #242524;
+    height: 50px;
+    width: 50px;
+    align-content: center;
+    border-radius: 50%;
+    margin: 30px 0 0 -125px;
+}
+
+.card-text-icon2{
+    background-color: #242524;
+    height: 50px;
+    width: 50px;
+    align-content: center;
+    border-radius: 50%;
+    margin: 60px 0 0 -125px;
+}
+
+.card-text-icon3{
+    background-color: #242524;
+    height: 50px;
+    width: 50px;
+    align-content: center;
+    border-radius: 50%;
+    margin: 60px 0 0 -125px;
+}
+
+.firstCard{
+    margin: 40px 0 0 0;
+    background-color: #fff !important;
+    height: 120px;
+    border-radius: 10px;
+}
+
+.firstCard h5{
+    margin: 30px 0 0 70px;
+}
+
+.firstCard p{
+    margin: 0 0 0 70px;
+}
+
+.DisplayPic img{
+    height: 70px !important;
+    width: 70px !important;
+    border-radius: 50% !important;
+    margin: 25px 0 0 60px;
+ }
+
+ .DisplayPic{
+    height: 100px !important;
+    width: 100px !important;
+    border-radius: 50% !important;
+    margin: 30px 0 0 55px;
+ }
+
+ .firstCard button{
+    margin: 0 0 0 70px;
+ }
+
+
+
